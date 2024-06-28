@@ -36,6 +36,15 @@
     `npm run dev`
 
     This command executes running app locally.
+
+5.  **Run Tests**
+
+    Run the following command in your terminal:
+
+    `npm run test`
+
+    This command executes running all tests.
+    
     
 #
 
