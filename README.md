@@ -53,7 +53,7 @@
 - **Showing loader why fetching data**: The application show loader if data loaded.
 
 - **Sorting**: Rooms sorted by price and name (additionally by low and high price); User able to change the sorting. (by name,
-by price (low and high))
+by price (low and high)). When sort filter active, button is disabled.
 
 - **Handle and display error message**: Handle and display error message if something wrong (for ex with network).
 
